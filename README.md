@@ -9,7 +9,7 @@ En la carpeta incluye video de exposición del proyecto.
 ### Origen de los datos
 Este es un conjunto de datos de propiedades a hacer rentadas en Estados Unidos de varias plataformas de agencias de alquiler. Estos fueron tomados desde diciembre de 2018 hasta diciembre de 2019.
 
-Los datodObtenido de la pagina web [Kaggle](https://www.kaggle.com/datasets/adithyaawati/apartments-for-rent-classified/data).
+Los datos obtenido de la pagina web [Kaggle](https://www.kaggle.com/datasets/adithyaawati/apartments-for-rent-classified/data).
 
 ### Objetivos del proyecto
 - ¿Qué plataforma de alquiler fue más utilizada para postear más anuncios de alquiler?
